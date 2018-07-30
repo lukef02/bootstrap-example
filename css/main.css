@@ -2455,7 +2455,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-left h1 {
   margin: 20px 0;
   font-size: 60px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 @media (max-width: 991px) {
